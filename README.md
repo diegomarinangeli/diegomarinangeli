@@ -8,7 +8,7 @@
 
 <br>
 
-## 📫 Where can you finde me
+## 📫 Contact me
 
 <div align="center">
 
