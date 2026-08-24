@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Sito-diegomarinangeli.github.io-2A5298?style=for-the-badge&logo=github&logoColor=white)](https://diegomarinangeli.github.io/)<br>
+[![Website](https://img.shields.io/badge/Sito-diegomarinangeli.github.io-2A5298?style=for-the-badge&logo=github&logoColor=white)](https://diegomarinangeli.pages.dev/)<br>
 [![Email](https://img.shields.io/badge/Email-artidego%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artidego@gmail.com)
 <!--[Uploadingoogle-site-verification: googleed03205c5111782c.htmlg googleed03205c5111782c (1).html…]() -->
 
